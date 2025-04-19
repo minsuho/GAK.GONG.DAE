@@ -1,0 +1,22 @@
+{
+  "id": "사망-23-35-55-03-10-2025_78-68-179",
+  "name": "사망 23:35:55 03-10-2025",
+  "icon": "journeymap:ui/img/waypoint-death-icon.png",
+  "colorizedIcon": "fake:color--13868806-waypoint-death-icon.png",
+  "x": 78,
+  "y": 68,
+  "z": -179,
+  "r": 44,
+  "g": 96,
+  "b": 250,
+  "enable": true,
+  "type": "Death",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
