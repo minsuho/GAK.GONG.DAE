@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["file/gak (2).zip","mod_resources","vanilla"]
+resourcePacks:["vanilla","mod_resources","file/gak (2).zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
