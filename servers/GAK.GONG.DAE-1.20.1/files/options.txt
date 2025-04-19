@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/gak (2).zip"]
+resourcePacks:["mod_resources","vanilla","file/gak (2).zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
@@ -134,7 +134,7 @@ key_key.journeymap.zoom_out:key.keyboard.minus
 key_key.journeymap.minimap_type:key.keyboard.left.bracket
 key_key.journeymap.minimap_preset:key.keyboard.backslash
 key_key.journeymap.create_waypoint:key.keyboard.unknown
-key_key.journeymap.toggle_waypoints:key.keyboard.z
+key_key.journeymap.toggle_waypoints:key.keyboard.unknown
 key_key.journeymap.fullscreen_create_waypoint:key.keyboard.unknown
 key_key.journeymap.fullscreen_chat_position:key.keyboard.unknown
 key_key.journeymap.map_toggle_alt:key.keyboard.m
@@ -147,11 +147,11 @@ key_key.journeymap.fullscreen.east:key.keyboard.right
 key_key.journeymap.fullscreen.west:key.keyboard.left
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
 key_webdisplays.key.toggle_mouse:key.keyboard.r
-key_key.emotecraft.fastchoose:key.keyboard.b
-key_key.emotecraft.stop:key.keyboard.grave.accent
+key_key.emotecraft.fastchoose:key.keyboard.grave.accent
+key_key.emotecraft.stop:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.x
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
 key_key.voice_chat:key.keyboard.comma
