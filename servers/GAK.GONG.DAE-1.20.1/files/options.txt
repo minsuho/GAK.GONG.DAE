@@ -1,6 +1,6 @@
 version:3465
 autoJump:false
-operatorItemsTab:false
+operatorItemsTab:true
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -53,7 +53,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -147,8 +147,8 @@ key_key.journeymap.fullscreen.east:key.keyboard.right
 key_key.journeymap.fullscreen.west:key.keyboard.left
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
 key_webdisplays.key.toggle_mouse:key.keyboard.r
-key_key.emotecraft.fastchoose:key.keyboard.grave.accent
-key_key.emotecraft.stop:key.keyboard.unknown
+key_key.emotecraft.fastchoose:key.keyboard.b
+key_key.emotecraft.stop:key.keyboard.grave.accent
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.x
