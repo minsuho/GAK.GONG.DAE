@@ -13,7 +13,7 @@
       "description": "GAK.GONG.DAE Running Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "http://raw.githubusercontent.com/minsuho/GAK.GONG.DAE/refs/heads/main/icon.png",
       "version": "1.0.0",
-      "address": "eff54asfaa234t32r3r24534t4r2g4egsrfg43r231r32.gnudocs.com:25565",
+      "address": "1.251.106.160",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -600,6 +600,26 @@
             "size": 7138304,
             "url": "https://raw.githubusercontent.com/minsuho/GAK.GONG.DAE/main/servers/GAK.GONG.DAE-1.20.1/forgemods/required/journeymap-1.20.1-5.9.20-forge.jar",
             "MD5": "852fdc318c2b9b5e0c1904c8929577ad"
+          }
+        },
+        {
+          "id": "de.keksuccino:justzoom:2.1.1@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 204574,
+            "url": "https://raw.githubusercontent.com/minsuho/GAK.GONG.DAE/main/servers/GAK.GONG.DAE-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "MD5": "758fe904b5a22ce7b2df824c1a064858"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.8.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625185,
+            "url": "https://raw.githubusercontent.com/minsuho/GAK.GONG.DAE/main/servers/GAK.GONG.DAE-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "MD5": "d69107c593e361e1b7b96733250bd098"
           }
         },
         {
