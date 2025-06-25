@@ -563,6 +563,26 @@
           }
         },
         {
+          "id": "com.gitter:gthud:1.0-SNAPSHOT@jar",
+          "name": "GtHud",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 67340,
+            "url": "https://raw.githubusercontent.com/minsuho/GAK.GONG.DAE/main/servers/GAK.GONG.DAE-1.20.1/forgemods/required/gthud-1.0-SNAPSHOT.jar",
+            "MD5": "84da175976125ffca89d6cf8f6cc7805"
+          }
+        },
+        {
+          "id": "com.gitter:gtnick:1.0-SNAPSHOT@jar",
+          "name": "GtNick Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25268,
+            "url": "https://raw.githubusercontent.com/minsuho/GAK.GONG.DAE/main/servers/GAK.GONG.DAE-1.20.1/forgemods/required/gtnick-1.0-SNAPSHOT.jar",
+            "MD5": "7106b5c93318573ef44aa41a44f7c9f2"
+          }
+        },
+        {
           "id": "com.corrinedev:gundurability:1.0.0@jar",
           "name": "TACZ Durability",
           "type": "ForgeMod",
@@ -750,16 +770,6 @@
             "size": 181437,
             "url": "https://raw.githubusercontent.com/minsuho/GAK.GONG.DAE/main/servers/GAK.GONG.DAE-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
-          }
-        },
-        {
-          "id": "net.hecknt:quicknick:1.1.2@jar",
-          "name": "QuickNick",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 35519,
-            "url": "https://raw.githubusercontent.com/minsuho/GAK.GONG.DAE/main/servers/GAK.GONG.DAE-1.20.1/forgemods/required/quicknick-1.1.2.jar",
-            "MD5": "9adbbc2db8b9c6bc713256ba433a63b5"
           }
         },
         {
