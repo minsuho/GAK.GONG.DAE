@@ -577,9 +577,9 @@
           "name": "GtNick Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 28705,
+            "size": 29759,
             "url": "https://raw.githubusercontent.com/minsuho/GAK.GONG.DAE/main/servers/GAK.GONG.DAE-1.20.1/forgemods/required/gtnick-1.0-SNAPSHOT.jar",
-            "MD5": "97f8cad98de135529dfbddb2078e25e1"
+            "MD5": "3bf1a12cbc8e5df2cea35ce170016e63"
           }
         },
         {
